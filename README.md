@@ -104,4 +104,4 @@ Therefore, our regular expression:
 
 ## Author
 
-Ashley is a Full Stack Developer with a passion for learning. To browse her projects or find her contact information, visit her [GitHub](https://github.com/ashlynn4567) profile!
+Ashley is a Full Stack Developer with a passion for learning. To browse her projects or find her contact information, visit her [GitHub](https://github.com/ashlynn4567) profile or [linkedIn](https://www.linkedin.com/in/ashley-lynn-smith/) page!
